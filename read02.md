@@ -21,3 +21,4 @@ Pair programming touches on all four skills: developers explain out loud what th
 5. Job interview readiness
 6. Work environment readiness
 
+[Main Page](https://thaerm94.github.io/reading-notes301) 
