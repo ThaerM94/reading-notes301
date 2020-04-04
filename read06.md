@@ -27,3 +27,6 @@
 2. Node’s big pluses is that it speaks JSON
 3.  it can be used as a scripting language to automate repetitive or error prone tasks on your PC
 4. used to write your own command line tool, such as this Yeoman-Style generator to scaffold out new projects.
+
+
+[Main Page](https://thaerm94.github.io/reading-notes301)  
