@@ -16,3 +16,6 @@
 
 ## Did you know?
 As you might have noticed by now, SQL doesn't require you to write the keywords all capitalized, but as a convention, it helps people distinguish SQL keywords from column and tables names, and makes the query easier to read.
+
+
+[Main Page](https://thaerm94.github.io/reading-notes301)
